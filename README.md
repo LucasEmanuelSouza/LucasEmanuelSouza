@@ -2,8 +2,7 @@
 
 
 - 👨‍💻 Engenharia de Software
-- 🎂 20 anos
-- 📚 Estudando: JavaScript
+- 🎂 24 anos
 
 <div align="flex-start">
   <a href="https://github.com/LucaSouzaEmanuel">
